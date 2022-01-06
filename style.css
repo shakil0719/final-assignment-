@@ -1,0 +1,62 @@
+body{
+    font-family: 'Cormorant Garamond', serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'PT Serif', serif;
+}
+h1{
+    font-size: 50px;
+    border-left: 5px solid red;
+    margin: 0;
+}
+.orangered-text{
+    color: orange;
+}
+
+.flexible-container{
+    display: flex;
+    
+}
+
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+    padding-top: 5%;
+}
+
+.half-width img{
+    width: 60%;
+    padding-left: 80px;
+       
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700; 
+    border-radius:  5px;
+}
+
+
+.mission-item{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    box-shadow: 10px 10px 40px gray;
+
+}
+
+#My-Mission{
+    
+    font-size: 50px;
+    text-align: center;
+}
+
+.ft-lst{
+    text-align: center;
+    padding: 20px;
+    background-color: black;
+    color: white;
+}
