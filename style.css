@@ -52,7 +52,7 @@ h1{
 }
 
 #Mission-2022{
-    background-color:darkkhaki;
+    background-color:rgba(223, 220, 181, 0.89);
     text-align: center;
     margin-bottom: 20px;
     margin-left: 5%;
@@ -61,11 +61,12 @@ h1{
 }
 .g1{
     text-align: center;
+    margin-bottom: 40px;
 }
 
 
 #Vission-2022{
-    background-color:darkseagreen;
+    background-color:rgba(207, 243, 207, 0.733);
     text-align: center;
     margin-bottom: 20px;
     
@@ -75,15 +76,16 @@ h1{
 }
 
 #Goals-2022{
-    background-color:grey;
+    background-color:rgba(196, 171, 171, 0.801);
     text-align: center;
     margin-bottom: 20px;
     margin-left: 5%;
     
     
-    box-shadow: 10px 10px 40px grey;
+    box-shadow: 10px 10px 40px rgb(146, 134, 134);
 
 }
+
 
 .ft-lst{
     text-align: center;
