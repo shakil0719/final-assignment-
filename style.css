@@ -13,19 +13,21 @@ h1{
 }
 
 .flexible-container{
+    width: 80%;
+    margin: auto;
     display: flex;
+    justify-content: center;
     
-}
-
-.half-width{
-    width: 50%;
-    padding-left: 5%;
-    padding-top: 5%;
 }
 
 .half-width img{
     width: 60%;
-    padding-left: 80px;
+    
+}
+
+.profile img{
+    width: 300px;
+   
        
 }
 
