@@ -43,6 +43,7 @@ h1{
 
 .mission-item{
     width: 40%;
+    background-color: burlywood;
     margin-left: 5%;
     margin-right: 5%;
     padding-left: 10px;
@@ -50,10 +51,38 @@ h1{
 
 }
 
-#My-Mission{
-    
-    font-size: 50px;
+#Mission-2022{
+    background-color:darkkhaki;
     text-align: center;
+    margin-bottom: 20px;
+    margin-left: 5%;
+    box-shadow: 10px 10px 40px grey;
+
+}
+.g1{
+    text-align: center;
+}
+
+
+#Vission-2022{
+    background-color:darkseagreen;
+    text-align: center;
+    margin-bottom: 20px;
+    
+    margin-left: 5%;
+    box-shadow: 10px 10px 40px grey;
+
+}
+
+#Goals-2022{
+    background-color:grey;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-left: 5%;
+    
+    
+    box-shadow: 10px 10px 40px grey;
+
 }
 
 .ft-lst{
